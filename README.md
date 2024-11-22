@@ -11,7 +11,7 @@ The comparison results are as follows:
 
 | Image Category      | GroundTruth  | Swin-T  | Swin-T + AFBO  |
 |---------------------|--------------|---------|----------------|
-| **Strainer** | ![Strainer-GroundTruth](link-to-groundtruth-image) | ![Strainer-Swin](link-to-swin-image) | ![Strainer-SwinAFBO](link-to-swin-afbo-image) |
+| **Strainer** | ![Strainer-GroundTruth](1.jpg) | ![Strainer-Swin](link-to-swin-image) | ![Strainer-SwinAFBO](link-to-swin-afbo-image) |
 | **Shoe Shop**  | ![ShoeShop-GroundTruth](link-to-groundtruth-image) | ![ShoeShop-Swin](link-to-swin-image) | ![ShoeShop-SwinAFBO](link-to-swin-afbo-image) |
 | **Rhinoceros Beetle** | ![Beetle-GroundTruth](link-to-groundtruth-image) | ![Beetle-Swin](link-to-swin-image) | ![Beetle-SwinAFBO](link-to-swin-afbo-image) |
 | **Orange** | ![Orange-GroundTruth](link-to-groundtruth-image) | ![Orange-Swin](link-to-swin-image) | ![Orange-SwinAFBO](link-to-swin-afbo-image) |
