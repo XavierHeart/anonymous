@@ -20,4 +20,4 @@ The comparison results are as follows:
 | **Arabian Camel** | ![Camel-GroundTruth](7-1.jpg) | ![Camel-Swin](7-2.png) | ![Camel-SwinAFBO](7-3.png) |
 | **Oil Filter** | ![OilFilter-GroundTruth](8-1.jpg) | ![OilFilter-Swin](8-2.png) | ![OilFilter-SwinAFBO](8-3.png) |
 | **Pole** | ![Pole-GroundTruth](9-1.jpg) | ![Pole-Swin](9-2.png) | ![Pole-SwinAFBO](9-3.png) |
-| **Steam Locomotive** | ![Locomotive-GroundTruth](10-1.jpg) | ![Locomotive-Swin](10-2.png) | ![Locomotive-SwinAFBO](10-3.png) |
+| **Steam Locomotive** | ![Locomotive-GroundTruth](10-1.jpg) | ![Locomotive-Swin](10-2.jpg) | ![Locomotive-SwinAFBO](10-3.png) |
