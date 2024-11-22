@@ -4,8 +4,8 @@
 
 This experiment compares different models' ability to capture image features, focusing on the following models:
 - **GroundTruth**: The ground truth image.
-- **Swin-T**: Heatmap generated using the Swin-T Transformer model.
-- **Swin-T + AFBO**: Heatmap generated using the Swin-T Transformer model with AFBO mechanism.
+- **Swin-T**: Heatmap generated using Swin-T Transformer model.
+- **Swin-T + AFBO**: Heatmap generated using Swin-T Transformer model with AFBO module.
 
 The comparison results are as follows:
 
@@ -13,11 +13,11 @@ The comparison results are as follows:
 |---------------------|--------------|---------|----------------|
 | **Strainer** | ![Strainer-GroundTruth](1-1.jpg) | ![Strainer-Swin](1-2.png) | ![Strainer-SwinAFBO](1-3.png) |
 | **Shoe Shop**  | ![ShoeShop-GroundTruth](2-1.jpg) | ![ShoeShop-Swin](2-2.png) | ![ShoeShop-SwinAFBO](2-3.png) |
-| **Rhinoceros Beetle** | ![Beetle-GroundTruth](link-to-groundtruth-image) | ![Beetle-Swin](link-to-swin-image) | ![Beetle-SwinAFBO](link-to-swin-afbo-image) |
-| **Orange** | ![Orange-GroundTruth](link-to-groundtruth-image) | ![Orange-Swin](link-to-swin-image) | ![Orange-SwinAFBO](link-to-swin-afbo-image) |
-| **Sleeping Bag** | ![SleepingBag-GroundTruth](link-to-groundtruth-image) | ![SleepingBag-Swin](link-to-swin-image) | ![SleepingBag-SwinAFBO](link-to-swin-afbo-image) |
-| **Titi Monkey** | ![TitiMonkey-GroundTruth](link-to-groundtruth-image) | ![TitiMonkey-Swin](link-to-swin-image) | ![TitiMonkey-SwinAFBO](link-to-swin-afbo-image) |
-| **Arabian Camel** | ![Camel-GroundTruth](link-to-groundtruth-image) | ![Camel-Swin](link-to-swin-image) | ![Camel-SwinAFBO](link-to-swin-afbo-image) |
-| **Oil Filter** | ![OilFilter-GroundTruth](link-to-groundtruth-image) | ![OilFilter-Swin](link-to-swin-image) | ![OilFilter-SwinAFBO](link-to-swin-afbo-image) |
-| **Pole** | ![Pole-GroundTruth](link-to-groundtruth-image) | ![Pole-Swin](link-to-swin-image) | ![Pole-SwinAFBO](link-to-swin-afbo-image) |
-| **Steam Locomotive** | ![Locomotive-GroundTruth](link-to-groundtruth-image) | ![Locomotive-Swin](link-to-swin-image) | ![Locomotive-SwinAFBO](link-to-swin-afbo-image) |
+| **Rhinoceros Beetle** | ![Beetle-GroundTruth](3-1.jpg) | ![Beetle-Swin](3-2.png) | ![Beetle-SwinAFBO](3-3.png) |
+| **Orange** | ![Orange-GroundTruth](4-1.jpg) | ![Orange-Swin](4-2.png) | ![Orange-SwinAFBO](4-3.png) |
+| **Sleeping Bag** | ![SleepingBag-GroundTruth](5-1.jpg) | ![SleepingBag-Swin](5-2.png) | ![SleepingBag-SwinAFBO](5-3.png) |
+| **Titi Monkey** | ![TitiMonkey-GroundTruth](6-1.jpg) | ![TitiMonkey-Swin](6-2.png) | ![TitiMonkey-SwinAFBO](6-3.png) |
+| **Arabian Camel** | ![Camel-GroundTruth](7-1.jpg) | ![Camel-Swin](7-2.png) | ![Camel-SwinAFBO](7-3.png) |
+| **Oil Filter** | ![OilFilter-GroundTruth](8-1.jpg) | ![OilFilter-Swin](8-2.png) | ![OilFilter-SwinAFBO](8-3.png) |
+| **Pole** | ![Pole-GroundTruth](9-1.jpg) | ![Pole-Swin](9-2.png) | ![Pole-SwinAFBO](9-3.png) |
+| **Steam Locomotive** | ![Locomotive-GroundTruth](10-1.jpg) | ![Locomotive-Swin](10-2.png) | ![Locomotive-SwinAFBO](10-3.png) |
