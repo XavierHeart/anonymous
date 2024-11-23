@@ -1,5 +1,3 @@
-# anonymous
-
 ## Heatmap Comparison Experiment
 
 This experiment compares different models' ability to capture image features, focusing on the following models:
@@ -21,3 +19,8 @@ The comparison results are as follows:
 | **Oil Filter** | ![OilFilter-GroundTruth](8-1.jpg) | ![OilFilter-Swin](8-2.png) | ![OilFilter-SwinAFBO](8-3.png) |
 | **Pole** | ![Pole-GroundTruth](9-1.jpg) | ![Pole-Swin](9-2.png) | ![Pole-SwinAFBO](9-3.png) |
 | **Steam Locomotive** | ![Locomotive-GroundTruth](10-1.jpg) | ![Locomotive-Swin](10-2.jpg) | ![Locomotive-SwinAFBO](10-3.png) |
+| **Mountain Lion** | ![MountainLion-GroundTruth](11-1.jpg) | ![MountainLion-Swin](11-2.png) | ![MountainLion-SwinAFBO](11-3.png) |
+| **Padlock** | ![Padlock-GroundTruth](12-1.jpg) | ![Padlock-Swin](12-2.png) | ![Padlock-SwinAFBO](12-3.png) |
+| **Harvester (Train Nearby)** | ![Harvester-GroundTruth](13-1.jpg) | ![Harvester-Swin](13-2.png) | ![Harvester-SwinAFBO](13-3.png) |
+| **Japanese Spaniel** | ![Spaniel-GroundTruth](14-1.jpg) | ![Spaniel-Swin](14-2.png) | ![Spaniel-SwinAFBO](14-3.png) |
+| **Pencil Box** | ![PencilBox-GroundTruth](15-1.jpg) | ![PencilBox-Swin](15-2.png) | ![PencilBox-SwinAFBO](15-3.png) |
